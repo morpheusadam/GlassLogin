@@ -5,11 +5,11 @@
 ### A modern, animated, RTL-ready login form with a Persian (Jalali / Shamsi) date picker — built with pure HTML, CSS & JavaScript.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/loginpage?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/loginpage?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/loginpage?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/loginpage?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/loginpage?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/GlassLogin?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/GlassLogin?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/GlassLogin?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/GlassLogin?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/GlassLogin?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -72,7 +72,7 @@ It is ideal for **front-end developers** who need a polished, RTL-first sign-in 
 ### Installation
 
 ```bash
-git clone https://github.com/morpheusadam/loginpage.git
+git clone https://github.com/morpheusadam/GlassLogin.git
 cd loginpage
 ```
 
@@ -111,7 +111,7 @@ loginpage/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/loginpage/issues) or submit a pull request with improvements, new themes, or accessibility enhancements.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/GlassLogin/issues) or submit a pull request with improvements, new themes, or accessibility enhancements.
 
 ## 📜 License
 
@@ -140,8 +140,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/loginpage&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/loginpage&type=Date" alt="loginpage — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/GlassLogin&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/GlassLogin&type=Date" alt="loginpage — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
