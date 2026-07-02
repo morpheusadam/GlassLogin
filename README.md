@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🔐 RTL Login Page
-
+# 🔐 Glass Login
 ### A modern, animated, RTL-ready login form with a Persian (Jalali / Shamsi) date picker — built with pure HTML, CSS & JavaScript.
 
 <p>
